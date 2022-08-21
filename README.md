@@ -1,7 +1,6 @@
 # Natural-Language-Processing
 
 This Repository focuses on deep learning and its applications in business and society. Special emphasis is given to the analysis of textual data and other complex data such as sequences and images.
-Cancel changes
 
 Topics covered in the module include but are not limited to:
 
