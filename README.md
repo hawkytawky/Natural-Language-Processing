@@ -11,6 +11,5 @@ Topics covered in the module include but are not limited to:
 * Methodological principles of RNNs
 * RNN applications in finance and language modeling
 * Text classification and sentiment analysis
-* Convolutional neural networks for image and text analysis
 * NLP transfer learning
 * Attention and transformers
